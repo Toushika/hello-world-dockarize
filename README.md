@@ -1,6 +1,7 @@
 # hello-world-dockarize Steps written down below : 
 
 **Step-1 : Run the Gradle command using the gradlew.bat script:**
+
 .\gradlew clean build
 
 **Step-2.Create a Dockerfile in Project Directory. The Docker File Content:**
